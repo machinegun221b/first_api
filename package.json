@@ -1,0 +1,24 @@
+{
+  "name": "mavback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/machinegun221b/mavback.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/machinegun221b/mavback/issues"
+  },
+  "homepage": "https://github.com/machinegun221b/mavback#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1",
+    "pkg": "^5.8.0"
+  }
+}
